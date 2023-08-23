@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Devanshu Saini</h2>
-        <p><a href="mailto:Devanshusaini2580@gmail.com">----site--up--url--</a></p>
+        <p><a href="https://devanshusaini.vercel.app/">devanshusaini.vercel.app</a></p>
       </header>
     </section>
 
@@ -36,7 +36,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Devanshu Saini <Link to="/">---SITE---URL--</Link>.</p>
+      <p className="copyright">&copy; Devanshu Saini <Link to="/">https://devanshusaini.vercel.app/</Link>.</p>
     </section>
   </section>
 );
