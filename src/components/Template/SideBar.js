@@ -13,13 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Devanshu Saini</h2>
-        <p><a href="https://devanshusaini.vercel.app/">devanshusaini.vercel.app</a></p>
+        <p>Software Engineer</p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p> Dynamic BTech Computer Science student prioritizing skill
+      <p> Hi, I am Devanshu Saini, BTech Computer Science student prioritizing skill
         acquisition and impactful project execution.
         Proficient in Python, React.js, Node.js, GitHub, and MongoDB.
         Led a 120-member team for <a href="https://niituniversity.in">NIIT University&apos;s</a> siNUsoid Tech Fest, showcasing adept leadership.

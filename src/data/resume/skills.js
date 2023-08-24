@@ -16,7 +16,7 @@ const skills = [
   },
   {
     title: 'Next.JS',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -31,12 +31,12 @@ const skills = [
   },
   {
     title: 'Git',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 1,
     category: ['Tools', 'Data Engineering'],
   },
   {
@@ -46,26 +46,21 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 2,
     category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
   },
   {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['ML Engineering', 'Python'],
-  },
-  {
     title: 'Jupyter',
-    competency: 3,
+    competency: 2,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'Typescript',
-    competency: 3,
+    competency: 1,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
+    title: 'HTML + CSS',
     competency: 3,
     category: ['Web Development', 'Languages'],
   },
@@ -81,12 +76,12 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 2,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 2,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));

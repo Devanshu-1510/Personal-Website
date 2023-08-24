@@ -27,7 +27,7 @@ const data = [
   {
     key: 'Projects Completed',
     label: 'Projects Completed',
-    value: 6,
+    value: '10+',
   },
   {
     key: 'location',
@@ -37,7 +37,7 @@ const data = [
   {
     key: 'Skills',
     label: 'Skills Acquired',
-    value: '18',
+    value: '15+',
   },
   {
     key: 'Languages',
