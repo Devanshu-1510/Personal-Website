@@ -84,6 +84,16 @@ const skills = [
     competency: 2,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
+  {
+    title: 'Cisco Packet Tracer',
+    competency: 3,
+    category: ['Cybersecurity'],
+  },
+  {
+    title: 'SNORT',
+    competency: 2,
+    category: ['Cybersecurity'],
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be === to the
