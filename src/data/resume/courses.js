@@ -12,7 +12,7 @@ const courses = [
     university: 'Stanford',
   },
   {
-    title: 'Front-End Intern Lead',
+    title: 'Front-End Intern Lead at Capitalist Yard India',
     number: '3',
     link: 'https://docs.google.com/document/d/1qSjE7tg9eFudHE7dB6na-WpajLC9KfTEc1o3VmTHpHs/edit?usp=sharing',
     university: 'Capitalist Yard India',
