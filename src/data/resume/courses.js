@@ -13,7 +13,7 @@ const courses = [
   },
   {
     title: 'Front-End Intern Lead at Capitalist Yard India',
-    number: '3',
+    number: '4',
     link: 'https://docs.google.com/document/d/1qSjE7tg9eFudHE7dB6na-WpajLC9KfTEc1o3VmTHpHs/edit?usp=sharing',
     university: 'Capitalist Yard India',
   },
