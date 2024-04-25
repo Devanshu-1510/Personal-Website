@@ -1,7 +1,7 @@
 
 # Intro
 
-A proactive Software Developer pursuing a BTech in Computer Science at NIIT University, Neemrana, I prioritize skill growth and impactful project execution. Proficient in Python, React.js, Node.js, GitHub, and MongoDB, I've led a 120-member team for NIIT University's siNUsoid Tech Fest, refining leadership abilities and organizational finesse. As an IT Intern at Capitalist Yard India, I drove initiatives for reliable coding practices, leveraging cutting-edge technologies. Alongside clear communication and collaboration skills, I've excelled in academic pursuits and projects. With a passion for basketball and travel, I'm poised to contribute effectively to software development and innovation.
+A proactive Software Developer pursuing a BTech in Computer Science at NIIT University, Neemrana, I prioritize skill growth and impactful project execution. I've led a 120-member team for NIIT University's **siNUsoid Tech Fest**, refining leadership abilities and organizational finesse. As an IT Intern at **Deloitte Shared Services India** & **Capitalist Yard India**, I drove initiatives for reliable coding practices, leveraging cutting-edge technologies. Alongside clear communication and collaboration skills, I've excelled in academic pursuits and projects. With a passion for basketball and travel, I'm poised to contribute effectively to software development and innovation.
 
 # Some history
 
@@ -13,7 +13,7 @@ A proactive Software Developer pursuing a BTech in Computer Science at NIIT Univ
 
 - In my projects, I've tackled diverse challenges showcasing technical acumen.
 
-- Outside my profession, I find solace in basketball, reflecting teamwork and strategic thinking. My creative interest is expressed through travel, a means to explore diverse cultures.
+- During my internship at Deloitte Shared Services India LLP, I developed a web application that integrates with the Qualtrics API to enable the export of survey responses. This project enhanced my skills in web development and API integration while contributing to a solution that streamlined the survey response process.
 
 # I like
 
