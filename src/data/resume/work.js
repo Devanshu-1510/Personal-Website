@@ -26,7 +26,7 @@ const work = [
       'Contributed proactively to the adoption of Code splitting, enhancing project efficiency and loading times.',
     ],
   },
-    {
+  {
     name: 'Deloitte Shared Services India LLP',
     position: 'Application Support Intern',
     url: 'https://www2.deloitte.com/in/en.html',
@@ -37,7 +37,6 @@ const work = [
       'Automated email notifications for successful exports and sharing survey links.',
     ],
   },
-
 ];
 
 export default work;
