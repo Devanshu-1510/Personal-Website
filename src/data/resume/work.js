@@ -26,6 +26,17 @@ const work = [
       'Contributed proactively to the adoption of Code splitting, enhancing project efficiency and loading times.',
     ],
   },
+    {
+    name: 'Deloitte Shared Services India LLP',
+    position: 'Application Support Intern',
+    url: 'https://www2.deloitte.com/in/en.html',
+    startDate: '2024-02-14',
+    summary: 'As an Application Support Intern at Deloitte Shared Services India LLP in Thane, I developed a web application that integrated with the Qualtrics API, facilitating the export of survey responses. Additionally, I automated email notifications for successful exports and sharing survey links, enhancing efficiency and user experience.',
+    highlights: [
+      'Developed a web application that integrates with the Qualtrics API to enable the export of survey responses',
+      'Automated email notifications for successful exports and sharing survey links.',
+    ],
+  },
 
 ];
 
